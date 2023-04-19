@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:1 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//50ff8960ac4d9d22a190ebe93daef3a2.jpg", 8XM
+http://58.65.194.14:1935/live/8XM-HD.stream/playlist.m3u8
+#EXTINF:2 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0b2ce7d8f8e23dc455fbc4e9711a2f26.jpg", 92 News HD
+http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
+#EXTINF:3 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//4865e6bd1db6eeb26f1505b9a7179994.jpg", A Plus
+http://58.65.194.14:1935/live/APlus.stream/playlist.m3u8
+#EXTINF:4 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//bc861c747227124312e4576b5967fd1e.jpg", A Sports HD-1
+http://203.101.163.5:1935/live/Asport.stream/playlist.m3u8
+#EXTINF:5 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/6aaa82ac240afa74ba584c3d81df17df.jpg", A Sports HD-2
+http://192.168.246.134:1935/live/Asport.stream/playlist.m3u8
+#EXTINF:6 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/53f7dbd120224fe14ebbbb0ee9b92fde.jpg", A Sports HD-3
+http://192.168.246.102:1935/live/Asport.stream/playlist.m3u8
+#EXTINF:7 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//67c1bd5254a8acdc4082b2bcc15a9aa3.jpg", ABB Takk News
+http://58.65.194.14:1935/live/ABB-Takk.stream/playlist.m3u8
+#EXTINF:8 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//a415e45410b7b0a21e7ae65c1b359b1d.jpg", AD Sports 2 HD 
+http://58.65.194.14:1935/live/AD Sports 2 HD.stream/playlist.m3u8
+#EXTINF:9 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//b7f36f3aec9167a6195d9274ba12bcce.jpg", AD Sports 3 HD
+http://58.65.194.14:1935/live/Fast and Funbox.stream/playlist.m3u8
+#EXTINF:10 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f366d39d0df3ab640c7624ffd3b6b7fa.jpg", AD Sports 4 HD 
+http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
+#EXTINF:11 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//86b7e0c527755fa9bc625c78a9304e7f.jpg", AMC HD
+http://58.65.194.14:1935/live/OSN Series First HD.stream/playlist.m3u8
+#EXTINF:12 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8907d9b8bf77411163d9a513010de12f.jpg", ARY  Zindagi
+http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
+#EXTINF:13 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1e8966341af358b57fc0b1a449012195.jpg", ARY Digital
+http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
+#EXTINF:14 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//fe26b5c19865345bb886a3eda2ea43df.jpg", ARY Musik
+http://58.65.194.14:1935/live/ARY-Musik.stream/playlist.m3u8
+#EXTINF:15 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//262e0fe78b871e781ccb147d8d8e020e.jpg", ARY News
+http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
+#EXTINF:16 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1bec099903eb681c6918d8d6e72530d3.jpg", ARY QTV
+http://58.65.194.14:1935/live/ARYQTV.stream/playlist.m3u8
+#EXTINF:17 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//45e7dbb8dfbc274c84f255d1cdfb893c.jpg", ATV
+http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
+#EXTINF:18 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//54de0c8bbcd5937306f4a6a6ca547bc6.jpg", AXN HD 
+http://58.65.194.14:1935/live/AXN.stream/playlist.m3u8
+#EXTINF:19 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e73b7396cac661950f169cfe3e2dbddb.jpg", AXN Spin HD 
+http://58.65.194.14:1935/live/AXNspinHD.stream/playlist.m3u8
+#EXTINF:20 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//7aad5f38d49cf081146f0db0b4d23e4f.jpg", Aaj Entertainment
+http://58.65.194.14:1935/live/Aaj-Ent.stream/playlist.m3u8
+#EXTINF:21 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//181117bc3f6fd71986f046bb0efad6e5.jpg", Aaj News
+http://58.65.194.14:1935/live/AajNews.stream/playlist.m3u8
+#EXTINF:22 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e118850e037680a228d33bcbf5e8ee37.jpg", Al Arabiya
+http://58.65.194.14:1935/live/Al Araybia.stream/playlist.m3u8
+#EXTINF:23 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0cd0c02aadc2a6a31ec095ee40007fa4.jpg", Al Jazeera News
+http://58.65.194.14:1935/live/AlJazeera.stream/playlist.m3u8
+#EXTINF:24 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e5400b96f12d6ceaa934bf4ba3fde4a4.jpg", Al Quran-ul-Kareem
+http://58.65.194.14:1935/live/Al-Quran-Al-Kareem.stream/playlist.m3u8
+#EXTINF:25 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2fd8f0d21daa4bae7d48a49d3a20e4f7.jpg", Al Sunnah HD
+http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
+#EXTINF:26 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//63347b5b7c863ad1aad3f0140e44a4c6.jpg", Apna Channel
+http://58.65.194.14:1935/live/CBS-Reality.stream/playlist.m3u8
+#EXTINF:27 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//17c21f25266c92672320afc249012e82.jpg", Arirang
+http://58.65.194.14:1935/live/Arirang.stream/playlist.m3u8
+#EXTINF:28 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//5df829d38bf775c66cc7787ee080b2d5.jpg", Arrahman Arraheem
+http://58.65.194.14:1935/live/Arrehman-arreheem.stream/playlist.m3u8
+#EXTINF:29 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//42054aeddcaa81a50ca303ade595ed72.jpg", BBC Brit HD
+http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
+#EXTINF:30 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8cca76945519c651e13d753161ba3281.jpg", BBC Earth HD 
+http://58.65.194.14:1935/live/BBC Earth HD.stream/playlist.m3u8
+#EXTINF:31 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8dcb6e619b3483feacbbe331c2ed01ad.jpg", BBC First HD
+http://58.65.194.14:1935/live/bbcfirst.stream/playlist.m3u8
+#EXTINF:32 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2159e831486baf5187dc5a820a4641b0.jpg", BBC World News
+http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
+#EXTINF:33 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//cc47f114ae91ffeb90dea1ee18fef118.jpg", BOL Entertainment
+http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
+#EXTINF:34 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//39c1a364ab17ca3daa7316a17aadd398.jpg", Baby TV
+http://58.65.194.14:1935/live/Baby-TV.stream/playlist.m3u8
+#EXTINF:35 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//6a8253f06490dbc38e702fe7e8cd5d74.jpg", Bein Sports 3 Max 1
+http://192.168.246.102:1935/live/beinmax1.stream/playlist.m3u8
+#EXTINF:36 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f68b22ceffcbc2c193b166e93f194916.jpg", Bein Sports 3 Max 2
+http://192.168.246.134:1935/live/beinmax1.stream/playlist.m3u8
+#EXTINF:37 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//be23ea54361998f87d775d82d5c0f48c.jpg", Bein Sports 3 Max 3
+http://203.101.163.5:1935/live/beinmax1.stream/playlist.m3u8
+#EXTINF:38 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//3824ef6c22f74b4f366b945620ea5053.jpg", Bein Sports 4 MAX 1
+http://192.168.246.102:1935/live/beinmax2.stream/playlist.m3u8
+#EXTINF:39 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//05252ac8cd4808541e8d1c9971b4884f.jpg", Bein Sports 4 MAX 2
+http://192.168.246.134:1935/live/beinmax2.stream/playlist.m3u8
+#EXTINF:40 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//55983bfcf37aa7b562f0abe03f8cdd7b.jpg", Bein Sports 4 MAX 3
+http://203.101.163.5:1935/live/beinmax2.stream/playlist.m3u8
+#EXTINF:41 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2803c513f09410485c0a7e96f7311b0a.jpg", Bein Sports HD 
+http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
+#EXTINF:42 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e2a96a6a61d69fa3c1e905ff2da46907.jpg", Bein Sports HD 
+http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
+#EXTINF:43 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//b707bf7550dfe89e5ab2b83b7395e008.jpg", Bein Sports HD 1
+http://58.65.194.14:1935/live/trace sports HD.stream/playlist.m3u8
+#EXTINF:44 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//39e30636d09d060c48f2eb6d6a108140.jpg", Bein Sports HD 3
+http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
+#EXTINF:45 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f91ce73de4c124dc1431b8a700a930e5.jpg", Bloomberg
+http://58.65.194.14:1935/live/Bloomberg.stream/playlist.m3u8
+#EXTINF:46 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//52a139aaa1fb26438b907bb47a603c29.jpg", Bol News HD
+http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
+#EXTINF:47 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//816126bc790c96a956713baa229915ed.jpg", Bravo Family
+http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
+#EXTINF:48 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2159d3cb377d300908bcb8af219d13a6.jpg", Bravo Islamic
+http://58.65.194.14:1935/live/Bravo1.stream/playlist.m3u8
+#EXTINF:49 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//b3e23d7c30baa3ecd64a5caa6d752a2c.jpg", Bravo Naya
+http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
+#EXTINF:50 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//d577d94287bb0574b81ebd06be4dc531.jpg", Bravo Now
+http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
+#EXTINF:51 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//3456d479d89cc84b5e97d7c1fdb1ed2e.jpg", Bravo Sub Rung
+http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
+#EXTINF:52 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8b106d36900079026478e2442a6ca2a0.jpg", CBS Europa 
+http://58.65.194.14:1935/live/cbseuropa.stream/playlist.m3u8
+#EXTINF:53 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//9ff7851f06471e00b38aa47e9904da4f.jpg", CBS Reality
+http://58.65.194.14:1935/live/Oxygene-TV.stream/playlist.m3u8
+#EXTINF:54 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//45dee7a8ccd9ec22cdca437df98c96fa.jpg", CGTN
+http://58.65.194.14:1935/live/CGTN.stream/playlist.m3u8
+#EXTINF:55 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//bc954be9e7e370b1a0c3f1ded7973b3c.jpg", CNBC HD
+http://58.65.194.14:1935/live/Planet Earth HD.stream/playlist.m3u8
+#EXTINF:56 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2115075b9324580b1c73e98876c63502.jpg", CNN
+http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
+#EXTINF:57 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//85b94c6e06f45afec3934315f7f2afe6.jpg", Capital News
+http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
+#EXTINF:58 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//7a5094d7cba0c8bb3f26ee7ac35af3b1.jpg", Cartoon Network
+http://58.65.194.14:1935/live/Cartoon-network.stream/playlist.m3u8
+#EXTINF:59 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//92dc8d7cc1af89aae166a195740942a9.jpg", Channel 24 HD News
+http://58.65.194.14:1935/live/Channel24.stream/playlist.m3u8
+#EXTINF:60 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//61b96301e4c2f0871baf7f02bb36828f.jpg", Channel News Asia
+http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
+#EXTINF:61 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//41f389ea6047d46b2f6539ba3f39d465.jpg", Comedy Central Family HD 
+http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
+#EXTINF:62 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//79ebbd42e0e9aab874120163fec6deeb.jpg", Comedy Central HD 
+http://58.65.194.14:1935/live/Comedy-Central-HD.stream/playlist.m3u8
+#EXTINF:63 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//d93aacf74b21dba0c0b756c78cf69cf1.jpg", DTX HD 
+http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
+#EXTINF:64 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0ab7a1833dd0a9a7f483cf82e23a4336.jpg", DW News
+http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
+#EXTINF:65 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1f6600e6c0c25896b46592c308d7ff1a.jpg", Dawn News
+http://58.65.194.14:1935/live/Dawn-News-480p.stream/playlist.m3u8
+#EXTINF:66 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//cc621e80009782bd4e1e5f1dd6ecb33c.jpg", Discovery ID HD 
+http://58.65.194.14:1935/live/Discovery-ID-HD.stream/playlist.m3u8
+#EXTINF:67 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//70358afa69ea9ba00f3be428bbb7ef58.jpg", Discovery Science HD 
+http://58.65.194.14:1935/live/Discovery-Science-HD.stream/playlist.m3u8
+#EXTINF:68 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e2ebaf4761e20205b962bbfeb5419f3e.jpg", Disney Junior HD
+http://58.65.194.14:1935/live/disney junior hd.stream/playlist.m3u8
+#EXTINF:69 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//d66a30fb81cddc0ac285ff7a232507a0.jpg", Dubai One HD 
+http://58.65.194.14:1935/live/Firemovie.stream/playlist.m3u8
+#EXTINF:70 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//a16c6b3f6e98b23a30aa4bc9f0e52a80.jpg", Dunya News
+http://58.65.194.14:1935/live/DunyaNews.stream/playlist.m3u8
+#EXTINF:71 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//9b2c6120a964f63488eea74a02fb2b54.jpg", Euro News 
+http://58.65.194.14:1935/live/Euro-news.stream/playlist.m3u8
+#EXTINF:72 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//729aa71ec754746f4dc55dda67be375a.jpg", Euro Sports 1 HD
+http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
+#EXTINF:73 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//618b7da46f9e62a8037144267e0f2a59.jpg", Euro Sports 2 HD
+http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
+#EXTINF:74 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//35831678e9acb98267ad57f7fcab55b1.jpg", Express Entertainment
+http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
+#EXTINF:75 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f7874909e41fc3b1c681729d2ebeff7e.jpg", Express News
+http://58.65.194.14:1935/live/express.stream/playlist.m3u8
+#EXTINF:76 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//032170bdc41dfd940492ccadb4730b02.jpg", Extreme Sports HD
+http://58.65.194.14:1935/live/Extreme Sports HD.stream/playlist.m3u8
+#EXTINF:77 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//dd39e8800ab77d9603c014dff41c9497.jpg", Film World
+http://58.65.194.14:1935/live/Filmworld.stream/playlist.m3u8
+#EXTINF:78 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2e078704a24427569982903907328abf.jpg", Fox Comedy
+http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
+#EXTINF:79 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//548cd6c799c85e1fbd9d4e28380b57ab.jpg", Fox HD
+http://58.65.194.14:1935/live/FOX-HD.stream/playlist.m3u8
+#EXTINF:80 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//48f2c249f002e35a2eed0c6881d4621c.jpg", Fox Life
+http://58.65.194.14:1935/live/History HD.stream/playlist.m3u8
+#EXTINF:81 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//a100fc2e946787ea829567482e16ad29.jpg", France 24 News HD
+http://58.65.194.14:1935/live/France24.stream/playlist.m3u8
+#EXTINF:82 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//cd22b4d6ef5643e1334d4cbf7f1bd0d2.jpg", GEM Onyx HD
+http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
+#EXTINF:83 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//79c77e27a2d5279d0c869c330f7292fd.jpg", GNN News HD
+http://58.65.194.14:1935/live/GNN-HD.stream/playlist.m3u8
+#EXTINF:84 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//6abc868f2a8cf59012fb3c98dc015cb0.jpg", Geo Entertainment
+http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
+#EXTINF:85 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//cf846ba806007d583a4505309486579b.jpg", Geo Kahani
+http://58.65.194.14:1935/live/Geo Khani.stream/playlist.m3u8
+#EXTINF:86 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//dcd24efe923283eb5dd272617716cf49.jpg", Geo News
+http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
+#EXTINF:87 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//484b3c497175d8ef363aa7affec034b6.jpg", Geo Super
+http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
+#EXTINF:88 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8b657ef59fb77825a6a1175bde774143.jpg", HBO
+http://58.65.194.14:1935/live/AD Sports 2 HD.stream/playlist.m3u8
+#EXTINF:89 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//359ebf2483cf2b22dab7e8ea5f4eb4ac.jpg", HBO 2 HD
+http://58.65.194.14:1935/live/HBO-2-HD.stream/playlist.m3u8
+#EXTINF:90 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f0f7d290d2983a8cbd0c5e535e695175.jpg", HBO HD
+http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
+#EXTINF:91 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//374cccb96acc9328d2fb27a5fc67807f.jpg", Hadi TV
+http://58.65.194.14:1935/live/Hadi-TV.stream/playlist.m3u8
+#EXTINF:92 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//533274397eee8ca48fa7057dc2a5b3cf.jpg", History Channel HD
+http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
+#EXTINF:93 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//ebce9e716e6393ecec25427f2612b81c.jpg", Hum Masala
+http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
+#EXTINF:94 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//95574a94609c368b499939f796309c1e.jpg", Hum News HD
+http://58.65.194.14:1935/live/HUM-News.stream/playlist.m3u8
+#EXTINF:95 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//79bbc7c44503596540ccc9bb746ee0b9.jpg", Hum Sitaray
+http://58.65.194.14:1935/live/Hum-sitaray.stream/playlist.m3u8
+#EXTINF:96 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f6c50a1433cafb6e28c28ddf28191024.jpg", Hum TV HD
+http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
+#EXTINF:97 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//81825de9d1c697d357a2e5893f327287.jpg", Jalwa
+http://58.65.194.14:1935/live/jalwa.stream/playlist.m3u8
+#EXTINF:98 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//c0f3086cb2f2be3398b2a6a758e6edb9.jpg", Karbala TV
+http://58.65.194.14:1935/live/Karbala-TV.stream/playlist.m3u8
+#EXTINF:99 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//41c1e42293a79587bf07a143299de0f8.jpg", Lahore News HD 
+http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
+#EXTINF:100 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1593e34d6ace9f1e8565dd1f1d7e08c4.jpg", MBC 2 HD
+http://58.65.194.14:1935/live/MBC2HD.stream/playlist.m3u8
+#EXTINF:101 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0844aad39eb62bed2e27c69a772d3595.jpg", MBC 4 HD
+http://58.65.194.14:1935/live/MBC-4.stream/playlist.m3u8
+#EXTINF:102 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//bfc03646f76a46dc87bbe51d8545d316.jpg", MBC Action HD 
+http://58.65.194.14:1935/live/MBC-Action-HD.stream/playlist.m3u8
+#EXTINF:103 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//cf918d71161d98085ac604c43c37b486.jpg", MBC Max 
+http://58.65.194.14:1935/live/MBCMax.stream/playlist.m3u8
+#EXTINF:104 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//9e4ec38b77b05d1896abf177fbfe9136.jpg", MTV OOS
+http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
+#EXTINF:105 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//aefff838777996bccf7fc1b655a6c5a4.jpg", Madani Channel
+http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
+#EXTINF:106 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//047de1a77fe917fda4685a30e7741a05.jpg", NAT Geo People HD
+http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
+#EXTINF:107 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//459d3a2a087398e11087728705145d1d.jpg", NAT Geo Wild HD
+http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
+#EXTINF:108 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//c462328d1c536d2b13acc9d204457e03.jpg", NBC Golf HD
+http://58.65.194.14:1935/live/AMCHD.stream/playlist.m3u8
+#EXTINF:109 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e6b52971fdb50e6651944a2bf2f4633c.jpg", NHK World HD
+http://58.65.194.14:1935/live/NHKWorldHD.stream/playlist.m3u8
+#EXTINF:110 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//966ca3107f8340e897f7e08a254005e3.jpg", National Geographic
+http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
+#EXTINF:111 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8942edde821c3ebb7e2e38fcc3aa7a35.jpg", Neo News HD
+http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
+#EXTINF:112 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//e7f027fa228d21ddbaa23e93f0ca7892.jpg", News One
+http://58.65.194.14:1935/live/News-One.stream/playlist.m3u8
+#EXTINF:113 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//f7736e3e1c5822be079581e28289b2d8.jpg", Nick Jr .
+http://58.65.194.14:1935/live/NickJr.stream/playlist.m3u8
+#EXTINF:114 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0b6a8389c2b879325ad60cd4fbac6e79.jpg", Nick Music
+http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
+#EXTINF:115 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//aae546cea45c9c12e0d2057c47f0a21c.jpg", Nickelodeon
+http://58.65.194.14:1935/live/Nickelodeon.stream/playlist.m3u8
+#EXTINF:116 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//b7cadfe12fb5d1bea781cf29a8838c77.jpg", OSN Movies HD
+http://58.65.194.14:1935/live/HBO-3-HD.stream/playlist.m3u8
+#EXTINF:117 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1d67cd00725a07076e4089c3f1a31c72.jpg", PLAY Entertainment
+http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
+#EXTINF:118 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0daad3bf67df96e75b0a970352b074f3.jpg", PNN News HD
+http://58.65.194.14:1935/live/13 Ulica HD.stream/playlist.m3u8
+#EXTINF:119 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//b72bd40ae31ca026be745f732251b06c.jpg", PTV Home
+http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
+#EXTINF:120 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//60e2e3f306a5dad2bf45aa9b550264a7.jpg", PTV National
+http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
+#EXTINF:121 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//b03f02bf5fa6137a2804a4191c9cc0b3.jpg", PTV News HD
+http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
+#EXTINF:122 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//aec04f973aa2e55cab6217a35417150a.jpg", PTV Sports-1
+http://203.101.163.5:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:123 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/2ae0dd5bb98bfdb22933289cd16962aa.jpg", PTV Sports-2
+http://192.168.246.102:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:124 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/6e5468c9399a0a84513d09bcfe5ccb96.jpg", PTV Sports-3
+http://192.168.246.134:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:125 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1877781a2f0d35e6560a9e172bfd2082.jpg", Peace TV English
+http://58.65.194.14:1935/live/peace_tv.stream/playlist.m3u8
+#EXTINF:126 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//db626388ffadd86232b3f126593e4935.jpg", Samaa News
+http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
+#EXTINF:127 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//3d36ae6c8acf22fd3b4dca01f85560fc.jpg", SciFi HD 
+http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
+#EXTINF:128 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//1b7ad2744e833cc29d2c29fdc8c2870c.jpg", Sindh TV 
+http://58.65.194.14:1935/live/Sindh-TV.stream/playlist.m3u8
+#EXTINF:129 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//6315964f181b9b2957d042a40a8bc2c9.jpg", Sindh TV News
+http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
+#EXTINF:130 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/97495ac077d4d58c043c0c55f87d0d47.jpg", Start Sports HD 1
+http://192.168.246.134:1935/live/Star-Sports-HD-1.stream/playlist.m3u8
+#EXTINF:131 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//0b7119f394a319278f89157e1b3f25b1.jpg", Such News HD
+http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
+#EXTINF:132 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//385c16d9b280c9a27eed0e8fd8dfe8fe.jpg", TRT World HD
+http://58.65.194.14:1935/live/TRTWorldHD.stream/playlist.m3u8
+#EXTINF:133 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//4e10d97d0aeefe626cf7ce521c954b92.jpg", TV One
+http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
+#EXTINF:134 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//6a0539b834b6dabf4a3e56b8e842b0f4.jpg", Ten Sports-1
+http://203.101.163.5:1935/live/Tensports.stream/playlist.m3u8
+#EXTINF:135 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/cf833372e2f49a7f705af27e74267950.jpg", Ten Sports-2
+http://192.168.246.102:1935/live/tensports.stream/playlist.m3u8
+#EXTINF:136 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/bb3299d74cfcb003b14eb5740487493c.jpg", Ten Sports-3
+http://192.168.246.134:1935/live/tensports.stream/playlist.m3u8
+#EXTINF:137 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//8362014ff7d8a1d7dadf79567b74e07a.jpg", Travel Channel HD 
+http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
+#EXTINF:138 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//2a000030f8205c960fa11d5c96085b05.jpg", Urdu 1
+http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
+#EXTINF:139 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//c6455cbb61bf39c4b02aafc113945ec8.jpg", WB TV HD 
+http://58.65.194.14:1935/live/tnt.stream/playlist.m3u8
+#EXTINF:140 group-title="eBravo" tvg-logo="http://ebravo.pk/classic/uploads/webtv//cea49c9f7cd0f0477e3d218e174d8419.jpg", minikaGO
+http://58.65.194.14:1935/live/minika.stream/playlist.m3u8
